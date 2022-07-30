@@ -12,17 +12,20 @@
 - ⚡ Fun fact: I love to see art and play the piano 😅
 
 
+
 ### Connect with me:
 
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Muhamma63227121#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Muhamma63227121#gh-dark-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-dark-mode-only)
+[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/muhammadanas0716/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammadanas0716/#gh-dark-mode-only)
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/muhammadanas0716/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/muhammadanas0716/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -47,7 +50,7 @@
 - [Exploratory Data Analysis Elucidated!](https://medium.com/mlearning-ai/exploratory-data-analysis-explained-38ebd817df1c)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://muhammadanas.hashnode.dev/)
+➡️ [more blog posts...](https://medium.com/@muhammadanas0716v/)
 
 ---
 
