@@ -45,9 +45,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew NG's Updated Course? Any good?](https://muhammadanas.hashnode.dev/andrew-ngs-updated-course-any-good)
+- [8 Soundest Seaborn Visualizations](https://medium.com/gitconnected/8-soundest-seaborn-visualizations-a17a60861973)
 - [What is Machine Learning? Explained to a 13-year-old!](https://muhammadanas.hashnode.dev/what-is-machine-learning-explained-to-a-13-year-old)
-- [Exploratory Data Analysis Elucidated!](https://medium.com/mlearning-ai/exploratory-data-analysis-explained-38ebd817df1c)
+- [Exploratory Data Analysis Explained!](https://medium.com/mlearning-ai/exploratory-data-analysis-explained-38ebd817df1c)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@muhammadanas0716v/)
@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: GitHub Statitics</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadanas365&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadanas0716&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
