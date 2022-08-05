@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Anas 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muhamma63227121?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMuhamma63227121&screen_name=Muhamma63227121)
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas)
 
 ## I'm 13, Student, and a Data Scientist!!
 
