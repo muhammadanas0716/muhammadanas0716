@@ -46,7 +46,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [8 Soundest Seaborn Visualizations](https://medium.com/gitconnected/8-soundest-seaborn-visualizations-a17a60861973)
-- [What is Machine Learning? Explained to a 13-year-old!](https://muhammadanas.hashnode.dev/what-is-machine-learning-explained-to-a-13-year-old)
+- [Top 4 Python libraries for 13-year-old enthusiastics!](https://medium.com/codex/top-4-python-libraries-for-13-year-old-enthusiastics-a35c32ebfcc3)
 - [Exploratory Data Analysis Explained!](https://medium.com/mlearning-ai/exploratory-data-analysis-explained-38ebd817df1c)
 <!-- BLOG-POST-LIST:END -->
 
