@@ -8,7 +8,7 @@
 - 🔭 Check out my Medium Blog: [Muhammad Anas](https://medium.com/@muhammadanas0716) 🔥
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators 🤝🏻
-- 🥅 2022 Goals: Learn more about machine learning and blockchain 🚀
+- 🥅 2022 Goals: Learn more about machine learning, algorithmic trading and blockchain 🚀
 - ⚡ Fun fact: I love to see art and play the piano 😅
 
 
