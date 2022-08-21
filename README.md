@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Anas 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Muhamma63227121?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMuhamma63227121&screen_name=Muhamma63227121)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MuhammadAnas707?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMuhamma63227121&screen_name=Muhamma63227121)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas)
 
 ## I'm 14, Student, and a Machine Learning maniac!!
@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-light-mode-only)
-[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-dark-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-light-mode-only)
 [![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-dark-mode-only)
@@ -64,7 +64,7 @@
 </details>
 
 [Blog]: https://medium.com/@muhammadanas0716](https://muhammadanas.hashnode.dev/what-is-machine-learning-explained-to-a-13-year-old
-[twitter]: https://twitter.com/Muhamma63227121
+[twitter]: https://twitter.com/MuhammadAnas707
 [instagram]: https://www.instagram.com/muhammadanas0716/
 [linkedin]: https://www.linkedin.com/in/muhammad-anas-63744b235/
 
