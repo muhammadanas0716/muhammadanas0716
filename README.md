@@ -46,8 +46,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [8 Soundest Seaborn Visualizations](https://medium.com/gitconnected/8-soundest-seaborn-visualizations-a17a60861973)
-- [Top 4 Python libraries for 13-year-old enthusiastics!](https://medium.com/codex/top-4-python-libraries-for-13-year-old-enthusiastics-a35c32ebfcc3)
-- [Exploratory Data Analysis Explained!](https://medium.com/mlearning-ai/exploratory-data-analysis-explained-38ebd817df1c)
+- [5 Python libraries that make Python just too fun!](https://levelup.gitconnected.com/5-python-libraries-that-make-python-just-too-fun-6bffea68a283)
+- [Top 20 Pandas functions you aren’t using, which you SHOULD BE using!](https://medium.com/gitconnected/top-20-pandas-functions-which-you-arent-using-which-you-should-be-using-a408a330daac) - **Highly Recommended**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@muhammadanas0716v/)
