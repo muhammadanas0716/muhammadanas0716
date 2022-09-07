@@ -9,7 +9,7 @@
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Researching on Algorithmic Trading
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
-- 🥅 2022 Goals: Learn more about algorithmic trading and Web3 🚀
+- 🥅 2022 Goals: Learn more Web3 & Blockchain 🚀
 - ⚡ Fun fact: I love to play the piano
 
 
@@ -59,7 +59,7 @@
   <summary>:zap: GitHub Statitics</summary>
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadanas0716&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  
+
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadanas0716&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </details>
