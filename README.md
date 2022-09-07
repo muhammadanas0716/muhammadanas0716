@@ -5,7 +5,7 @@
 
 ## I'm 14, Student, and a Machine Learning maniac!!
 
-- 🔭 Check out my Medium Blog: [Muhammad Anas](https://medium.com/@muhammadanas0716) 🔥
+- 🔭 Check out my [Medium Blog](https://medium.com/@muhammadanas0716) 🔥
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
 - 🥅 2022 Goals: Learn more about algorithmic trading and Web3 🚀
