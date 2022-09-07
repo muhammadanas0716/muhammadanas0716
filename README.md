@@ -7,6 +7,7 @@
 
 - 🔭 Check out my [Blog](https://medium.com/@muhammadanas0716) 🔥
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
+- 📃 Researching on Algorithmic Trading
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
 - 🥅 2022 Goals: Learn more about algorithmic trading and Web3 🚀
 - ⚡ Fun fact: I love to play the piano
