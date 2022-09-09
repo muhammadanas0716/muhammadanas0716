@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MuhammadAnas707?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMuhamma63227121&screen_name=Muhamma63227121)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadanas0716&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadanas0716" /> </p>
+
 
 ## I'm 14, Student, and a Machine Learning maniac!!
 
