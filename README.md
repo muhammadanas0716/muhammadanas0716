@@ -17,8 +17,7 @@
 ## What poeple say about me?
 * **Heard you speaking at one of the twitter space, you are insanely talented for your age Muhammad. Keep it up, onwards and upwards 🚀** - [Shubham Saboo](https://twitter.com/Saboo_Shubham_/status/1571165600428466179) Author of the Book `GPT-3: Building Innovative NLP Products using LLMs`
 
-* **I'm really impressed with your blog and GitHub, and even a YouTube account!** - [Patrick Loeber](https://twitter.com/python_engineer); 180k+ Subsribers on YouTube
-
+* **I'm really impressed with your blog and GitHub, and even a YouTube account!** - [Patrick Loeber](https://twitter.com/python_engineer) - `180k+ Subsribers on YouTube`
 
 ### Connect with me:
 
