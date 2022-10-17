@@ -3,6 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MuhammadAnas707?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MuhammadAnas707)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas)
 
+Join me on my [#365DaysOfMachineLearning](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/twitter.md)
+
 
 ## I'm 14, Student, and a Machine Learning maniac!!
 
