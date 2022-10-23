@@ -62,9 +62,6 @@
 
 ---
 
-## Dev Profile
-<a href="https://app.daily.dev/muhammadanas707"><img src="https://api.daily.dev/devcards/bb0a4b22308f4f02af54c62cbcf199a1.png?r=1nv" width="400" alt="Muhammad Anas's Dev Card"/></a>
-
 <details>
   <summary>:zap: GitHub Statitics</summary>
 
