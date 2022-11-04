@@ -35,8 +35,8 @@
 [![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-light-mode-only)
 [![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-dark-mode-only)
 
-## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## Github Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadanas0716&margin-w=15&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages and Tools:
 
@@ -53,7 +53,7 @@
 
 ---
 
-## My Achievements 🏆
+## My Achievements 🙌
 [![@muhammadanas's Holopin board](https://holopin.me/muhammadanas)](https://holopin.io/@muhammadanas)
 
 ### 📕 Latest Blog Posts
