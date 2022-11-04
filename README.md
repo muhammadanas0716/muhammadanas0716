@@ -35,6 +35,9 @@
 [![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-light-mode-only)
 [![website](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-48.png)](https://www.kaggle.com/muhammadanas0716/#gh-dark-mode-only)
 
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
