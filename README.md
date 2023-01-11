@@ -6,7 +6,7 @@
 
 ## I'm 14, Student, and a Machine Learning maniac!!
 
-- 🔭 Check out my [Blog](https://medium.com/@muhammadanas0716) 🔥
+- 🔭 Check out my [Blog](https://themachinelearningdude.hashnode.dev/) 🔥
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Researching on Algorithmic Trading
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
