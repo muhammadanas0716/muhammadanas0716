@@ -8,7 +8,7 @@
 
 - 🔭 Check out my [Blog](https://themachinelearningdude.hashnode.dev/) 🔥
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
-- 📃 Researching on Linear Regression
+- 📃 Reading on SVMs
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
 - 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning
 - ⚡ Fun fact: I love to play the piano
