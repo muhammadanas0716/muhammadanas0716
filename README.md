@@ -4,7 +4,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas)
 
 
-## I'm 14, Student, and a Machine Learning maniac!!
+## I'm 14, Student, and a Machine Learning Maniac!!
 
 - 🔭 Check out my [Blog](https://themachinelearningdude.hashnode.dev/) 🔥
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
