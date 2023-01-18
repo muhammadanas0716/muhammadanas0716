@@ -11,7 +11,7 @@
 - 📃 Reading on Decision Trees
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
 - 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning
-- ⚡ Fun fact: I love to play the piano
+- ⚡ Fun fact: I love Philosophy
 
 
 ## What poeple say about me?
