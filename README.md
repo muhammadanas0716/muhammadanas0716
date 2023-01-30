@@ -10,7 +10,7 @@
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Reading on Decision Trees
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
-- 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning
+- 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning.
 - ⚡ Fun fact: I love Philosophy
 
 
