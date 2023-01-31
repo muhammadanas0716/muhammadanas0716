@@ -6,7 +6,6 @@
 
 ## I'm 14, Student, and a Machine Learning Maniac!!
 
-- 🔭 Check out my [Blog](https://themachinelearningdude.hashnode.dev/)  🔥
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Reading on Decision Trees
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
