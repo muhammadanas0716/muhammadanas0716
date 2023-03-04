@@ -4,12 +4,12 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas)
 
 
-## I'm 14, Student, and a Machine Learning Maniac!!
+## I'm 14, Student, and a Machine Learning Maniac!!nn
 
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Reading on ML metrics
 - 👯 I’m looking to collaborate with other content creators & professionals🤝 🏻
-- 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning.
+- 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning
 - ⚡ Fun fact: I love Stoic Philosophy
 
 
