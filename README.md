@@ -10,7 +10,7 @@
 - 📃 Reading on ML Metrics
 - 👯 I’m looking to collaborate with other content creators & professionals🤝 🏻
 - 🥅 2023 Goals: Get deeper into Machine Learning & Deep learning
-- ⚡ Fun fact: I love Stoic Philosophy
+- ⚡ Fun fact: I love reading Philosophy
 
 
 ## What poeple say about me?
