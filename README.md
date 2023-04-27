@@ -4,7 +4,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas07)
 
 
-## I'm 14, Student, and a Machine Learning Maniac.
+## I'm 14, Student, and a Machine Learning Maniac!
 
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Reading on ML Metrics
@@ -22,9 +22,6 @@
 
 [![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-light-mode-only)
 [![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-light-mode-only)
-[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-light-mode-only)
 [![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-dark-mode-only)
@@ -53,15 +50,6 @@
 ## My Achievements 🙌d
 [![@muhammadanas's Holopin board](https://holopin.me/muhammadanas)](https://holopin.io/@muhammadanas)
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [8 Soundest Seaborn Visualizations](https://medium.com/gitconnected/8-soundest-seaborn-visualizations-a17a60861973)
-- [5 Python libraries that make Python just too fun!](https://levelup.gitconnected.com/5-python-libraries-that-make-python-just-too-fun-6bffea68a283)
-- [Top 20 Pandas functions you aren’t using, which you SHOULD BE using!](https://medium.com/gitconnected/top-20-pandas-functions-which-you-arent-using-which-you-should-be-using-a408a330daac) - **Highly Recommended**
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@muhammadanas0716v/)
 
 ---
 
@@ -74,8 +62,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadanas0716&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </details>
 
-[Blog]: https://medium.com/@muhammadanas0716](https://muhammadanas.hashnode.dev/what-is-machine-learning-explained-to-a-13-year-old
-[twitter]: https://twitter.com/MuhammadAnas707
+[Twitter]: https://twitter.com/MuhammadAnas707
 [instagram]: https://www.instagram.com/muhammadanas0716/
 [linkedin]: https://www.linkedin.com/in/muhammad-anas-63744b235/
 
