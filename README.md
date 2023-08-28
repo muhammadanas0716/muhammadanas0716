@@ -4,7 +4,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas07)
 
 
-## I'm 14, Student, and a Machine Learning Maniac! 
+## I'm 15, a Student, and a Machine Learning Maniac! 
 
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Reading on ML Metrics
@@ -13,8 +13,8 @@
 - ⚡ Fun fact: I love reading Philosophy
 
 
-## What poeple say about me?
-* **Heard you speaking at one of the twitter space, you are insanely talented for your age Muhammad. Keep it up, onwards and upwards 🚀** - [Shubham Saboo](https://twitter.com/Saboo_Shubham_/status/1571165600428466179) Author of the Book `GPT-3: Building Innovative NLP Products using LLMs`
+## What people say about me?
+* **Heard you speaking at one of the Twitter space, you are insanely talented for your age Muhammad. Keep it up, onwards and upwards 🚀** - [Shubham Saboo](https://twitter.com/Saboo_Shubham_/status/1571165600428466179) Author of the Book `GPT-3: Building Innovative NLP Products using LLMs`
 
 * **I'm really impressed with your blog and GitHub, and even a YouTube account!** - [Patrick Loeber](https://twitter.com/python_engineer) - `180k+ Subsribers on YouTube`
 
