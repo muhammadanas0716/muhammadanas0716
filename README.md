@@ -1,8 +1,7 @@
 # Muhammad Anas
 
 ## About Me
-I'm Muhammad Anas, a 15-year-old student passionate about Machine Learning and exploring its vast potential, I'm always keen on collaborating with other creators and professionals to bring innovative ideas to life.
-
+I'm Muhammad Anas, a 15-year-old student passionate about Machine Learning and exploring its vast potential.... I'm always keen on collaborating with other creators and professionals to bring innovative ideas to life.
 ### 🌟 My Journey in 2023
 - 🌱 Deep diving into Machine Learning & Deep Learning.
 - 🤝 Looking forward to collaborating with like-minded professionals.
