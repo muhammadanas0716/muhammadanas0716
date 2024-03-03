@@ -6,7 +6,7 @@ I'm Muhammad Anas, a 15-year-old student passionate about Machine Learning and e
 - 🌱 Deep diving into Machine Learning & Deep Learning.
 - 🤝 Looking forward to collaborating with like-minded professionals.
 - 🚀 Goal: Develop Nexly, an all-in-one SaaS tool for brainstorming, planning, and marketing targeted at small teams and SaaS founders.
-- 📈 Aiming to grow my Twitter audience to 10k followers (currently at 2.7k).
+- 📈 Aiming to grow my Twitter audience to 10k followers (currently at 2.7k)
 - 📚 Challenge: Read 30 books to broaden my perspectives, especially in philosophy.
 
 ## What People Say About Me
