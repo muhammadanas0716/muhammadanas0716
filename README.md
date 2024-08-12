@@ -2,7 +2,7 @@
 
 ## About Me
 I'm Muhammad Anas, a 15-year-old student passionate about Machine Learning and exploring its vast potential.... I'm always keen on collaborating with other creators and professionals to bring innovative ideas to life.
-### 🌟 My Journey in 2023
+### 🌟 My Journey in 2024
 - 🌱 Deep diving into Machine Learning & Deep Learning.
 - 🤝 Looking forward to collaborating with like-minded professionals.
 - 🚀 Goal: Develop Nexly, an all-in-one SaaS tool for brainstorming, planning, and marketing targeted at small teams and SaaS founders.
