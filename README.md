@@ -19,12 +19,12 @@ def describe_anas():
 
 I'm Muhammad Anas, a young tech entrepreneur with a passion for ML, community building, and helping fellow indie developers succeed. When I'm not training neural networks, I'm probably debugging someone's CSS margins (we've all been there 😅).
 
-### 🌟 Major Milestones
+### 🌟 Major Milestones in 2024
 - 🎯 Founded SnazzyPlum - Helping indie devs master their finances ($10k Angel Investment)
 - 🏆 Youngest Speaker at PyCon 2024 LUMS
-- 📚 Creator of Machine Learning 101 Repository
-- 🎓 Completed Andrew Ng's Machine Learning Course
-- 🤝 Building a non-profit org for the developer community
+- 📚 Resumed and grew Machine Learning 101 Repository to much higher ends
+- 🎓 Got into Universty of Chicago Summer's Immersion Program
+- 🤝 Building a non-profit org for the developer community - Nookery
 
 ## 🚀 Current Projects
 
@@ -51,7 +51,7 @@ Track your journey, celebrate wins, and support non-profits—all while building
 ## 🎓 Learning Journey
 - 🎖️ Machine Learning - Andrew Ng (Stanford)
 - 🤖 Deep Learning Specialization Progress: 3/5
-- 💻 Currently Learning: MLOps
+- 💻 Currently Learning: MLOps + Using Deep Learning to help in algorithmic trading
 
 ## 🗂️ Featured Repositories
 
