@@ -88,15 +88,6 @@ if (codeWorks === true) {
 * **"Community Builder"** - Building bridges in the tech community, one meme at a time
 * **Minecraft Server** - Idk if this counts, but made a PVP server for my school and it was EPIC!
 
-### 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://twitter.com/MuhammadAnas707"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-  <a href="https://www.linkedin.com/in/muhammadanas0716"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://dev.to/muhammadanas0716"><img src="https://img.icons8.com/color/48/000000/dev.png"/></a>
-  <a href="https://medium.com/@muhammadanas0716"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
-</div>
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadanas0716&color=blue" alt="Profile views" />
