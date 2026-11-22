@@ -1,6 +1,7 @@
 i do machine learning for a living (actually do more startups, but you get the point)
 
-also run this fun research lab: https://effielabs.com/
+also run this fun research lab: https://effielabs.com/ (wip)
 
 
-also shipping: https://payping.space/
+also my cal app: http://timebird.space/
+
